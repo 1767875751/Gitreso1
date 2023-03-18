@@ -8,4 +8,5 @@ package fyh;
  */
 public class user {
     private String name;
+private int height;
 }
